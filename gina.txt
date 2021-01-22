@@ -1,1 +1,3 @@
-new gina txt
+new new gina txt
+def func()
+jkjkj
